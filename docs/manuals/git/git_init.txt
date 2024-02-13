@@ -1,0 +1,4 @@
+Git einrichten:
+
+1. git bash öffnen (z.B. mit Explorer -> shift rechtsklick)
+2. Im Projektordner oder Stammordner, git init ausführen.

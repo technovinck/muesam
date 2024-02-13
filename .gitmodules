@@ -1,0 +1,9 @@
+[submodule "armUnit"]
+	path = armUnit
+	url = https://github.com/technovinck/armUnit
+[submodule "driveUnit"]
+	path = driveUnit
+	url = https://github.com/technovinck/driveUnit
+[submodule "mainUnit"]
+	path = mainUnit
+	url = https://github.com/technovinck/mainUnit
