@@ -1,3 +1,14 @@
+Gleichstrommotor
+Betriebsspannung: 3V ~ 6V DC
+Untersetzungsverhältnis: 1:48
+Wenn die Spannung 6 V beträgt:
+Leerlaufstrom: ≤200mA
+Leerlaufdrehzahl: 200 ± 10% U / min
+Wenn die Spannung 3 V beträgt:
+Leerlaufstrom: ≤150mA
+Leerlaufdrehzahl: 90 ± 10% U / min
+
+LN298N:
 Produktbeschreibungen
 Spezifikation:
 Motorantriebsmodul
@@ -20,26 +31,3 @@ Wenn die Antriebsspannung höher als 12 V, kleiner oder gleich 24 V ist. Zuerst 
 integrierte Überbrückungskappe für den 5-V-Ausgang entfernt und dann die externe
 5-V-Spannung an die 5-V-Eingangsschnittstelle angeschlossen werden, um die interne
 Logikschaltung des mit Strom zu versorgen.
-
-Gleichstrommotor
-Betriebsspannung: 3V ~ 6V DC
-Untersetzungsverhältnis: 1:48
-Wenn die Spannung 6 V beträgt:
-Leerlaufstrom: ≤200mA
-Leerlaufdrehzahl: 200 ± 10% U / min
-Wenn die Spannung 3 V beträgt:
-Leerlaufstrom: ≤150mA
-Leerlaufdrehzahl: 90 ± 10% U / min
-
-Produktliste:
-4 x Intelligente Auto Rad
-4 x DC Motor
-2 x Motorantrieb Kontroll Modul
-20 x 20cm Jumer-Kabel Buchse zu Buchse
-20 x 20cm Jumer-Kabel Stecker zu Stecker
-20 x 20cm Jumer-Kabel Stecker zu Buchse
-
-KeeYees:
-Beste Wahl in verschiedenen elektronischen Modulen & Komponenten,
-DIY-Teilen und Werkzeugen, um Ihre Arbeit und Design-Herausforderungen zu Hause,
-Schule bis zu industriellen Anwendungen zu unterstützen!
